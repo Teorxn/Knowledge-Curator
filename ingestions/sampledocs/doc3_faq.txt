@@ -1,0 +1,8 @@
+P: ¿Cuándo son los parciales?
+R: Los parciales son en la semana 6 y semana 12.
+
+P: ¿Puedo usar Python o debo usar R?
+R: El curso usa Python exclusivamente con librerías como scikit-learn y pandas.
+
+P: ¿Cuál es la nota mínima para aprobar?
+R: La nota mínima aprobatoria es 3.0 sobre 5.0.

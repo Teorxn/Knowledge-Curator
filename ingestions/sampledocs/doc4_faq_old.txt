@@ -1,0 +1,5 @@
+P: ¿Se puede usar R en el curso?
+R: No, el curso es exclusivamente en Python.
+
+P: ¿Cuándo son los exámenes?
+R: Los exámenes parciales ocurren en las semanas 6 y 12 del semestre.

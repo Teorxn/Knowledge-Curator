@@ -1,0 +1,5 @@
+Curso: Introducción a Machine Learning
+Duración: 16 semanas
+Evaluación: 50% proyectos, 25% parciales, 25% final
+Prerrequisitos: Cálculo, Python intermedio
+El curso cubre regresión lineal, clasificación, y deep learning básico.
